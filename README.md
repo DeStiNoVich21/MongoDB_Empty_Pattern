@@ -8,7 +8,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/MongoDB_Empty_Pattern.git
+   git clone https://github.com/GOSUKZ/MongoDB_Empty_Pattern.git
    ```
 
 2. Перейдите в директорию проекта:
